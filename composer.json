@@ -1,0 +1,12 @@
+{
+  "name": "LuisFWS/LARAVEL-HELPERS",
+  "description": "Funções helpers para Laravel",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "files": [
+      "src/helpers.php"
+    ]
+  },
+  "require": {}
+}
